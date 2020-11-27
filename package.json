@@ -1,0 +1,26 @@
+{
+  "name": "hackyeah-wildboars",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "autoprefixer": "^10.0.2",
+    "firebase": "^8.1.1",
+    "leaflet": "^1.7.1",
+    "next": "^10.0.0",
+    "next-pwa": "^3.1.5",
+    "postcss": "^8.1.8",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-query": "^2.26.3"
+  },
+  "devDependencies": {
+    "sass": "^1.29.0"
+  }
+}
